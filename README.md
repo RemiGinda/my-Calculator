@@ -1,6 +1,9 @@
+
 # Calculator
 
 A simple dark-themed calculator for Windows, built with Python and Tkinter.
+
+<img src="assets/calv1.png" width="300" alt="Calculator screenshot">
 
 Run it with: python calculator.py
 
